@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.chart{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
